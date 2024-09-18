@@ -6,11 +6,12 @@ In this Power BI case study, I’ll explore a real-world job posting dataset for
 
 ### Screenshot of Dashboard 
 
-#### Home:![Home](https://github.com/user-attachments/assets/6aa9af3e-4ec8-445a-b14d-671693b89bec)
+#### Home:![Home](https://github.com/user-attachments/assets/820b3864-b7a8-448b-ba80-483b5a3094db)
 
-#### Jobs:![Jobs](https://github.com/user-attachments/assets/d3a10db7-6c83-4f6a-a8a8-87dc5451839d)
+#### Jobs:![Jobs](https://github.com/user-attachments/assets/df2c15cf-42ac-496a-9577-7f67b187c9d4)
 
-#### Skills:![Skills](https://github.com/user-attachments/assets/ebed6a6f-c94b-4e9e-85fb-23d728f8909e)
+#### Skills:![Skills](https://github.com/user-attachments/assets/947311d6-c480-4678-8177-f004f76d43aa)
 
-#### Company:![Company](https://github.com/user-attachments/assets/bce08b6b-4503-43c2-9fa9-5f086dbba220)
+#### Company:![Company](https://github.com/user-attachments/assets/0fb1329c-6e4a-45a8-bd10-f7bc55367728)
+
 
